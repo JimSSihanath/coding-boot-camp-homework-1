@@ -1,4 +1,4 @@
-# coding-boot-camp-homework-1
+# Coding Boot Camp - Homework 01
 
 ## Description
 
