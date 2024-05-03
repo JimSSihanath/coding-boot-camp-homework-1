@@ -1,4 +1,4 @@
-# Coding Boot Camp - Homework 01
+# Horiseon: An Innovative Marketing Agency
 
 ## Description
 
