@@ -95,34 +95,14 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+/* Re-classed benefit-lead h3, benefit-brand h3, benefit-cost h3 to sub-benefits h3 since they execute the same code. */
+.sub-benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+/* Re-clased benefit-lead img, benefit-brand img, benefit-cost img to sub-benefits img since they execute the same code. */
+.sub-benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
