@@ -89,17 +89,8 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+/* Re-classed benefit-lead, benefit-brand, and benefit-cost to sub-benefits since they do the same execution. */
+.sub-benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
