@@ -109,7 +109,8 @@ p {
 }
 
 /* Removed font-styles not used that were discoverd through Chrome DevTools. */
-.search-engine-optimization {
+/* Consolidated search-engine-optimization, online-reputation-management, social-media-marketing to search-online-social. */
+.search-online-social {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -118,47 +119,13 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: Calibri, sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: Calibri, sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
+/* Consolidated img classes to search-online-social img. */
+.search-online-social img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+/* Consolidated h2 classes to search-online social h2. */
+.search-online-social h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
